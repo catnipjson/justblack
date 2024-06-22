@@ -1,6 +1,6 @@
 {
   "name": "JustBlack",
-  "description": "Amoled using only black.",
+  "description": "All black.",
   "color": "#000000",
   "authors": [
     {
@@ -26,19 +26,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#89D59E",
+      "#ffffff",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#89D59E",
+      "#ffffff",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#89D59E",
+      "#ffffff",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#89D59E",
+      "#ffffff",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -50,15 +50,15 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#36553F",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#36553F",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#272c35",
+      "#2C2C2C",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
@@ -82,11 +82,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#89D59E",
+      "#5E5E5E",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#89D59E",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -147,7 +147,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#89D59E",
+      "#5E5E5E",
       "#ffffff"
     ]
   },
