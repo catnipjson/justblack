@@ -86,6 +86,10 @@
       "#333333",
       "#ffffff"
     ],
+    "MENTIONED_FOREGROUND": [
+      "#ffffff",
+      "#ffffff"
+    ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#5E5E5E",
       "#ffffff"
@@ -184,7 +188,7 @@
     "PLUM_22": "#000000",
     "BRAND_260": "#8a94a8",
     "BRAND_500": "#8C8A8A",
-    "BRAND_560": "#000000",
+    "BRAND_560": "#ffffff",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
